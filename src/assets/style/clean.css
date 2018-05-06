@@ -1,0 +1,13 @@
+body {-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, button, input, textarea, th, td { margin:0; padding:0; }
+h1, h2, h3, h4, h5, h6{ font-size:100%; }
+address, cite, dfn, em, var { font-style:normal; }
+small{ font-size:12px; }
+ul, ol { list-style:none; }
+a { text-decoration:none; color: #ffffff;}
+a:hover { text-decoration:none; font-weight: bold; }
+sup { vertical-align:text-top; }
+sub{ vertical-align:text-bottom; }
+fieldset, img { border:0; }
+input { border:0; outline:none; }
+table { border-collapse:collapse; border-spacing:0; }
